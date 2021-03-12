@@ -18,7 +18,6 @@
             "server": "Enterprise grade datacenter all servers with 4 cores 8gb RAM as a minimum depending on workload and 1 Gigabyte of guaranteed network bandwidth",
             "company": "CardanoWorld.net"
         },
-        "rss": "http(s) url to valid RSS feed"
     },
     "my-pool-ids": {
         "0": "4ab37439b37a6007d5e8ca4443e3093264273bf20c783df126639fb6"
