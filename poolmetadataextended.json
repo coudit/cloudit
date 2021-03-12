@@ -13,14 +13,6 @@
             "discord_handle": "",
             "github_handle": ""
         },
-        "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
-        },
         "about": {
             "me": "Managed with passion by 1 devops and 2 secdevops engineers with more than 30 years of acumulated experience, using enterprise grade infraestructure, monitorization and security",
             "server": "Enterprise grade datacenter all servers with 4 cores 8gb RAM as a minimum depending on workload and 1 Gigabyte of guaranteed network bandwidth",
@@ -32,6 +24,6 @@
         "0": "4ab37439b37a6007d5e8ca4443e3093264273bf20c783df126639fb6"
     },
     "telegram-admin-handle": {
-        "0": "mnmnmnmnnmn"
+        "0": "..."
     },
 }
