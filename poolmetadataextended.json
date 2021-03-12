@@ -5,8 +5,8 @@
 		"url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
 		"location": "Europe",
 		"social": {
-			"twitter_handle": "https://twitter.com/WorldCardano",
-			"telegram_handle": "https://t.me/cardanoworldESEN",
+			"twitter_handle": "WorldCardano",
+			"telegram_handle": "cardanoworldESEN",
 			"facebook_handle": "",
 			"youtube_handle": "",
 			"twitch_handle": "",
