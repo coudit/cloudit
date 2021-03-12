@@ -3,10 +3,10 @@
     "info": {
         "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
         "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
-        "location": "World",
+        "location": "London, England",
         "social": {
-            "twitter_handle": "",
-            "telegram_handle": "",
+            "twitter_handle": "AdapoolsO",
+            "telegram_handle": "adapools_ops",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -18,21 +18,20 @@
             "addr": "Street, Number",
             "city": "London",
             "country": "England",
-            "company_id": "...",
-            "vat_id": "..."
+            "company_id": "123456789",
+            "vat_id": "GB123456789"
         },
         "about": {
-            "me": "...",
-            "server": "...",
-            "company": "..."
+            "me": "Managed with passion by 1 devops and 2 secdevops engineers with more than 30 years of acumulated experience, using enterprise grade infraestructure, monitorization and security",
+            "server": "Enterprise grade datacenter all servers with 4 cores 8gb RAM as a minimum depending on workload and 1 Gigabyte of guaranteed network bandwidth",
+            "company": "CardanoWorld.net"
         },
         "rss": "http(s) url to valid RSS feed"
     },
     "my-pool-ids": {
-        "0": "...",
-        "1": "..."
+        "0": "4ab37439b37a6007d5e8ca4443e3093264273bf20c783df126639fb6"
     },
     "telegram-admin-handle": {
-        "0": ""
+        "0": "mnmnmnmnnmn"
     },
 }
